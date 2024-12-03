@@ -1,5 +1,7 @@
 package day1
 
+import java.util.Optional
+import kotlin.jvm.optionals.getOrElse
 import kotlin.math.abs
 
 fun run() {
